@@ -51,10 +51,10 @@ Se desea obtener el promedio final ponderado.
 
 #### Diseño del algoritmo
 **Diagrama de Flujo:**
-![Diagrama de flujo](diagrama.png)
+![Diagrama de flujo](Diagrama.png)
 
 **Pseudocódigo:**
-![Pseudocodigo](pseudocodigo.png)
+![Pseudocodigo](Pseudocodigo.png)
 
 **Codificación:**
 ![Codificación](Codificacion.png)
