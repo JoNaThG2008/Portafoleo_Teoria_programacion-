@@ -54,6 +54,12 @@ Se desea obtener el promedio final ponderado.
 ![Diagrama de flujo](diagrama.png)
 
 **Pseudocódigo:**
+![Pseudocodigo](pseudocodigo.png)
+
+**Codificación:**
+![Codificación](Codificacion.png)
+
+
 
 
 ---
