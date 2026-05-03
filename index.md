@@ -1,6 +1,33 @@
 # Portafolio Digital de Aprendizaje – Teoría de la Programación
 
 ##  Carátula
+---
+
+### 🏫 Institución
+(Nombre de la institución)
+
+### 🎓 Carrera
+Computación
+
+### 📚 Asignatura
+Teoría de la Programación
+
+### 🔢 Ciclo
+Primero
+
+### 📅 Período académico
+(Escribe aquí, por ejemplo: 2026 - 2026)
+
+### 👩‍🏫 Docente
+Ing. Lissette Geoconda López Faicán
+
+### 👨‍🎓 Estudiante
+Jonathan Gerardo Contento Cuenca
+
+---
+
+📍 Loja – Ecuador  
+📆 2026
 
 ## Unidad 1
 
@@ -76,5 +103,19 @@ Sin embargo, a medida que se avanzó con la práctica, se logró mejorar la capa
 Como reflexión, estos contenidos son importantes porque son la base de la programación. Aprender a organizar un algoritmo antes de programar ayuda a hacer programas más claros y ordenados. Además, el uso de herramientas digitales y la inteligencia artificial ayudó a entender mejor los temas y resolver dudas.
 
 ------------------------------------------------------------
+##  Bibliografía
+
+[1] Material de clase de la asignatura Teoría de la Programación, proporcionado por el docente, 2026.
+
+[2] Apuntes personales del estudiante, elaborados durante el desarrollo de la asignatura, 2026.
+
+[3] :contentReference[oaicite:0]{index=0}, OpenAI, utilizado como herramienta de apoyo para la comprensión de contenidos y redacción, 2026.
+
+------------------------------------------------------------
+## Declaración de uso de IA generativa
+
+Para la elaboración de este portafolio se utilizó inteligencia artificial como herramienta de apoyo, específicamente ChatGPT, con el objetivo de reforzar la comprensión de los contenidos, mejorar la redacción y guiar la estructura del trabajo.
+
+El uso de esta herramienta fue complementario al aprendizaje propio, asegurando la comprensión de cada tema desarrollado.
 
 
