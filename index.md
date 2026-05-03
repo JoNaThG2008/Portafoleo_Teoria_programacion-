@@ -40,7 +40,7 @@ Se desea obtener el promedio final ponderado.
 
 ---
 
-#### 🟡 Análisis del problema
+#### Análisis del problema
 
 - **Entrada:** nota1, nota2, nota3  
 - **Proceso:**  
@@ -49,7 +49,7 @@ Se desea obtener el promedio final ponderado.
 
 ---
 
-#### 🔵 Diseño del algoritmo
+#### Diseño del algoritmo
 **Diagrama de Flujo:**
 ![Diagrama de flujo](diagrama.png)
 
@@ -59,6 +59,13 @@ Se desea obtener el promedio final ponderado.
 **Codificación:**
 ![Codificación](Codificacion.png)
 
+#### Validación (Prueba de escritorio)
+
+| Nota 1 | Nota 2 | Nota 3 | Cálculo                           | Promedio |
+| ------ | ------ | ------ | --------------------------------- | -------- |
+| 8      | 9      | 10     | (8×0.30) + (9×0.30) + (10×0.40)   | 9.1      |
+| 7      | 8      | 9      | (7×0.30) + (8×0.30) + (9×0.40)    | 8.1      |
+| 10     | 10     | 10     | (10×0.30) + (10×0.30) + (10×0.40) | 10       |
 
 
 
