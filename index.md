@@ -1,34 +1,7 @@
 # Portafolio Digital de Aprendizaje – Teoría de la Programación
 
-##  Carátula
----
 
-### 🏫 Institución
-(Nombre de la institución)
-
-### 🎓 Carrera
-Computación
-
-### 📚 Asignatura
-Teoría de la Programación
-
-### 🔢 Ciclo
-Primero
-
-### 📅 Período académico
-(Escribe aquí, por ejemplo: 2026 - 2026)
-
-### 👩‍🏫 Docente
-Ing. Lissette Geoconda López Faicán
-
-### 👨‍🎓 Estudiante
-Jonathan Gerardo Contento Cuenca
-
----
-
-📍 Loja – Ecuador  
-📆 2026
-
+![](Caratula.png)
 ## Unidad 1
 
 ### Contenidos
@@ -49,9 +22,10 @@ Simulación manual del algoritmo para verificar su correcto funcionamiento.
 **🔹 Lenguajes de programación**  
 Los lenguajes de programación son formas de comunicarnos con la computadora para decirle qué hacer. Funcionan como un idioma que la máquina entiende, y con ellos se escriben instrucciones llamadas código. Gracias a estos lenguajes, se pueden crear programas, aplicaciones, páginas web y juegos. Algunos ejemplos son C.
 
-**🔹 Programación por bloques**  
-La programación por bloques es una forma sencilla de programar en la que se usan bloques visuales en lugar de escribir código. Estos bloques representan instrucciones y se encajan como piezas de un rompecabezas para decirle a la computadora qué hacer. Es más fácil de aprender porque evita errores de escritura y ayuda a entender la lógica de la programación. 
-------------------------------------------------------------
+**🔹 Programación por bloques**
+La programación por bloques es una forma sencilla de programar en la que se usan bloques visuales en lugar de escribir código. Estos bloques representan instrucciones y se encajan como piezas de un rompecabezas para decirle a la computadora qué hacer. Es más fácil de aprender porque evita errores de escritura y ayuda a entender la lógica de la programación. Se usa mucho en programas educativos y para principiantes
+
+---
 
 ###  Ejercicio Secuencial
 
@@ -65,7 +39,7 @@ Cada nota tiene una ponderación diferente:
 
 Se desea obtener el promedio final ponderado.
 
-------------------------------------------------------------
+---
 
 #### Análisis del problema
 
@@ -74,7 +48,7 @@ Se desea obtener el promedio final ponderado.
   promedio = (nota1 * 0.30) + (nota2 * 0.30) + (nota3 * 0.40)  
 - **Salida:** Promedio Final
 
-------------------------------------------------------------
+---
 
 #### Diseño del algoritmo
 **Diagrama de Flujo:**
@@ -102,7 +76,7 @@ Sin embargo, a medida que se avanzó con la práctica, se logró mejorar la capa
 
 Como reflexión, estos contenidos son importantes porque son la base de la programación. Aprender a organizar un algoritmo antes de programar ayuda a hacer programas más claros y ordenados. Además, el uso de herramientas digitales y la inteligencia artificial ayudó a entender mejor los temas y resolver dudas.
 
-------------------------------------------------------------
+---
 ##  Bibliografía
 
 [1] Material de clase de la asignatura Teoría de la Programación, proporcionado por el docente, 2026.
@@ -111,7 +85,7 @@ Como reflexión, estos contenidos son importantes porque son la base de la progr
 
 [3] :contentReference[oaicite:0]{index=0}, OpenAI, utilizado como herramienta de apoyo para la comprensión de contenidos y redacción, 2026.
 
-------------------------------------------------------------
+---
 ## Declaración de uso de IA generativa
 
 Para la elaboración de este portafolio se utilizó inteligencia artificial como herramienta de apoyo, específicamente ChatGPT, con el objetivo de reforzar la comprensión de los contenidos, mejorar la redacción y guiar la estructura del trabajo.
