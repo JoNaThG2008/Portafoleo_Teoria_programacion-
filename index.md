@@ -8,7 +8,6 @@
 
 **🔹 Algoritmo**  
 Un algoritmo es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado.
-![](algoritmo.png)
 
 **🔹 Pseudocódigo**  
 Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alumno hacia los lenguajes de programación,
