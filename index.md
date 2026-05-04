@@ -14,10 +14,10 @@ Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alum
 utiliza símbolos y describe las instrucciones que debe seguir el algoritmo. tambien se puede decir que el pseudocódigo es una forma de representar algoritmos utilizando una mezcla de lenguaje natural y estructuras de programación, actuando como un "código falso" intermedio antes de escribir el código real. Su objetivo es facilitar la comprensión de la lógica del programa, centrándose en el flujo y no en las reglas sintácticas
 
 **🔹 Diagrama de flujo**  
-Es una epresentación gráfica de un algoritmo mediante símbolos y flechas que indican el flujo del proceso.
+Un diagrama de flujo (o flujograma) es una representación gráfica de un proceso, algoritmo o sistema, que utiliza símbolos estandarizados conectados por flechas para mostrar la secuencia de pasos de manera ordenada. Es una herramienta visual crucial para simplificar procesos complejos, identificar cuellos de botella y mejorar la eficiencia en áreas como programación, negocios e ingeniería.
 
 **🔹 Prueba de escritorio**  
-Simulación manual del algoritmo para verificar su correcto funcionamiento.
+Una prueba de escritorio es la simulación manual de un algoritmo o código paso a paso, utilizando papel, lápiz o una hoja de cálculo. Su objetivo es verificar la lógica, flujo y validez del programa, detectando errores tempranos mediante la asignación de valores a las variables sin ejecutarlo en la computadora
 
 **🔹 Lenguajes de programación**  
 Los lenguajes de programación son formas de comunicarnos con la computadora para decirle qué hacer. Funcionan como un idioma que la máquina entiende, y con ellos se escriben instrucciones llamadas código. Gracias a estos lenguajes, se pueden crear programas, aplicaciones, páginas web y juegos. Algunos ejemplos son C.
@@ -78,13 +78,19 @@ Como reflexión, estos contenidos son importantes porque son la base de la progr
 --- 
 ##  Bibliografía
 
-[1] Material de clase de la asignatura Teoría de la Programación, proporcionado por el docente, 2026.
+[1] Material de clase de la asignatura *Teoría de la Programación*, proporcionado por la docente, 2026.
 
-[2] Apuntes personales del estudiante, elaborados durante el desarrollo de la asignatura, 2026.
+[2] Apuntes personales del estudiante, elaborados durante el desarrollo de la asignatura *Teoría de la Programación*, 2026.
 
-[3] :contentReference[oaicite:0]{index=0}, OpenAI, utilizado como herramienta de apoyo para la comprensión de contenidos y redacción, 2026.
+[3] OpenAI, “ChatGPT”, 2026. [En línea]. Disponible: https://chat.openai.com/
 
-[4] “¿Qué es un algoritmo?”, :contentReference[oaicite:1]{index=1}, Revista de Ingeniería y Tecnología, disponible en: https://unirfp.unir.net/revista/ingenieria-y-tecnologia/que-es-algoritmo/
+[4] Universidad Internacional de La Rioja, “¿Qué es un algoritmo?”, *Revista de Ingeniería y Tecnología*. [En línea]. Disponible: https://unirfp.unir.net/revista/ingenieria-y-tecnologia/que-es-algoritmo/
+
+[5] Ciberaula, “Pseudocódigo: qué es y cómo escribirlo con ejemplos claros”. [En línea]. Disponible: https://www.ciberaula.com/cursos/java/pseudolenguaje_1.php
+
+[6] Universidad Internacional de La Rioja (UNIR México), “¿Qué es un diagrama de flujo y para qué sirve?”. [En línea]. Disponible: https://mexico.unir.net/noticias/ingenieria/diagrama-flujo/
+
+[7] Scribd, “¿Qué es la prueba de escritorio en seudocódigo?”. [En línea]. Disponible: https://es.scribd.com/document/463660396/Que-Es-La-Prueba-de-Escritorio-en-Seudocodigo
 ---
 ## Declaración de uso de IA generativa
 
