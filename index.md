@@ -7,11 +7,11 @@
 ### Contenidos
 
 **🔹 Algoritmo**  
-Un algoritmo es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado.
+Un algoritmo es un conjunto ordenado, finito y definido de instrucciones o pasos lógicos que permiten solucionar un problema, realizar una tarea o procesar datos. Funciona como una receta de cocina: recibe datos de entrada, los procesa siguiendo reglas claras y produce un resultado (salida)
 
 **🔹 Pseudocódigo**  
 Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alumno hacia los lenguajes de programación,
-utiliza símbolos y describe las instrucciones que debe seguir el algoritmo.
+utiliza símbolos y describe las instrucciones que debe seguir el algoritmo. tambien se puede decir que el pseudocódigo es una forma de representar algoritmos utilizando una mezcla de lenguaje natural y estructuras de programación, actuando como un "código falso" intermedio antes de escribir el código real. Su objetivo es facilitar la comprensión de la lógica del programa, centrándose en el flujo y no en las reglas sintácticas
 
 **🔹 Diagrama de flujo**  
 Es una epresentación gráfica de un algoritmo mediante símbolos y flechas que indican el flujo del proceso.
@@ -75,8 +75,7 @@ Otra dificultad fue la correcta interpretación de los problemas, ya que no siem
 Sin embargo, a medida que se avanzó con la práctica, se logró mejorar la capacidad de análisis y la organización lógica de las soluciones. El uso de ejercicios secuenciales permitió comprender mejor la estructura básica de un programa y la importancia de seguir un orden adecuado en las instrucciones.
 
 Como reflexión, estos contenidos son importantes porque son la base de la programación. Aprender a organizar un algoritmo antes de programar ayuda a hacer programas más claros y ordenados. Además, el uso de herramientas digitales y la inteligencia artificial ayudó a entender mejor los temas y resolver dudas.
-
----
+--- 
 ##  Bibliografía
 
 [1] Material de clase de la asignatura Teoría de la Programación, proporcionado por el docente, 2026.
@@ -85,6 +84,7 @@ Como reflexión, estos contenidos son importantes porque son la base de la progr
 
 [3] :contentReference[oaicite:0]{index=0}, OpenAI, utilizado como herramienta de apoyo para la comprensión de contenidos y redacción, 2026.
 
+[4] “¿Qué es un algoritmo?”, :contentReference[oaicite:1]{index=1}, Revista de Ingeniería y Tecnología, disponible en: https://unirfp.unir.net/revista/ingenieria-y-tecnologia/que-es-algoritmo/
 ---
 ## Declaración de uso de IA generativa
 
